@@ -1,0 +1,5 @@
+{
+	"ip":"AYYU40I.aternos.me",
+	"port": "16435",
+	"name": "BOTXD"
+}
